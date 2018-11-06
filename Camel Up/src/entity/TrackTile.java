@@ -1,5 +1,11 @@
 package entity;
 
-public class TrackTile {
+import java.util.ArrayList;
 
+public class TrackTile {
+	
+	private ArrayList<Camel> camels;
+	private DesertTile desertTile = null;
+	
+	
 }
